@@ -4,7 +4,7 @@ This python package is prepared by YourName.
 
 Install
 
-`pip install git+ssh://git@github.com:AlgoAIBoss/abbostext.git`
+`pip install git+ssh://git@github.com/AlgoAIBoss/abbostext.git`
 
 Uninstall
 
