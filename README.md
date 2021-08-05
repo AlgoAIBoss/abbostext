@@ -1,13 +1,11 @@
 # Preprocessing Text Python Package
 
-#### Course Link: https://bit.ly/intro_nlp
-
 This python package is prepared by YourName.
 
 Install
 
-`pip install git+ssh://git@github.com/kgptalkie/preprocess_kgptalkie.git`
+`pip install git+ssh://git@github.com:AlgoAIBoss/abbostext.git`
 
 Uninstall
 
-`pip uninstall preprocess_kgptalkie`# abbostext
+`pip uninstall abbostext`# abbostext
